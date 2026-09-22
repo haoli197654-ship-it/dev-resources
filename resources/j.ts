@@ -70,6 +70,14 @@ export const resources: Resource[] = [
         url: 'https://jestjs.io/',
     },
     {
+        name: 'Jev AI',
+        description:
+            'Jev AI turns real-world state into probability-backed decisions through an online AI model, SDK, and REST API.',
+        categories: ['AI', 'API Building', 'Programming'],
+        url: 'https://thejevai.com/',
+        keywords: ['AI', 'decision making', 'probabilities', 'REST API'],
+    },
+    {
         name: 'JobBoardSearch 🔎',
         categories: ['Job'],
         description:
